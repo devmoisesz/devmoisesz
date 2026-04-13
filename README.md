@@ -3,10 +3,7 @@
 
 
 ##  🧑🏻‍💻 
-My name is Moisés Figueiredo, I am 17 years old, I am a Systems Development student at ETEC, and I am passionate about technology and programming. I am focused on learning software development and continuously improving myself in this area.
-## 📈 Objectives
-- Become a developer 
-- Getting my first opportunity in the field
+My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development student at ETEC and I'm passionate about technology and programming. I'm increasingly focused on improving my web development skills.
 
 ## 🚀 Teach Stack
 <div>
