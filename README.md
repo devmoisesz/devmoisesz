@@ -16,8 +16,6 @@ My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development stude
 ## 🌐 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-figueiredo/)
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_moisesz16/)
 
 ## 📫 Contact
