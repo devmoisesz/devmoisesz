@@ -1,11 +1,14 @@
 # Moisés Figueiredo 💻🇧🇷
 🚀 **Systems Development Technical Student**
 
+## 🧑🏻‍💻 About me
 
-##  🧑🏻‍💻 
 My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development student at ETEC and I'm passionate about technology and programming. I'm increasingly focused on improving my web development skills.
 
+---
+
 ## 🛠️ Languages & Frameworks
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
@@ -14,9 +17,21 @@ My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development stude
 </div>
 
 ## 🗄️ Databases
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [products-api](https://github.com/devmoisesz/products-api) | RESTful API for product management with POST, GET, PUT and DELETE endpoints — built with Node.js, Express and PostgreSQL. |
+| [cadastro-usuarios](https://github.com/devmoisesz/cadastro-usuarios) | User registration system built with Node.js and Express. |
+
+---
 
 ## 🌐 Where to find me
 
@@ -24,4 +39,5 @@ My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development stude
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_moisesz16/)
 
 ## 📫 Contact
-- ✉️ Email: moisesfigueiredo2508@gmail.com  
+
+- ✉️ Email: moisesfigueiredo2508@gmail.com
