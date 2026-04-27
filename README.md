@@ -28,7 +28,7 @@ My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development stude
 
 | Project | Description |
 |---------|-------------|
-| [products-api](https://github.com/devmoisesz/products-api) | RESTful API for product management with POST, GET, PUT and DELETE endpoints — built with Node.js, Express and PostgreSQL. |
+| [crud-products](https://github.com/devmoisesz/products-api) | CRUD Full Stack product application - with POST, GET, PUT, and DELETE functionalities - using JavaScript React, Vite, Node.js, Express, and PostgreSQL technologies.|
 | [cadastro-usuarios](https://github.com/devmoisesz/cadastro-usuarios) | User registration system built with Node.js and Express. |
 
 ---
