@@ -15,7 +15,7 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 
 ## 🚀 Technologies I've Worked With  
 
-**Currently focusing on Backend development**
+**Back-End Development Focus**
 
 [![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,js,react,html,css,git,postman)](https://skillicons.dev)
 
