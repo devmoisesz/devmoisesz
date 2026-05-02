@@ -6,18 +6,12 @@
 ## 🧑🏻‍💻 About Me | Sobre mim  
 
 **EN:**  
-I'm a Systems Development student focused on Back-End web development. I work with JavaScript, Node.js, and PostgreSQL, building REST APIs, designing database structures, and implementing business rules on the server side.  
-
-I develop structured and efficient solutions, handling data persistence, application architecture, and communication between systems. My focus is on writing clean, maintainable, and scalable code, always aiming for well-organized and functional applications.  
-
-I work well in teams, communicate clearly, and approach problems with a practical and solution-oriented mindset.
+Focused on Back-End development, with emphasis on designing and building APIs, as well as structuring and modeling databases. I develop organized and well-structured solutions, with attention to data persistence and system communication in real-world projects.  
 
 **PT-BR:**  
-Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web Back-End. Trabalho com JavaScript, Node.js e PostgreSQL, desenvolvendo APIs REST, modelando bancos de dados e implementando regras de negócio no lado do servidor.  
+Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, além da estruturação e modelagem de bancos de dados. Desenvolvo soluções organizadas e bem estruturadas, com atenção à persistência de dados e à comunicação entre sistemas em projetos reais.
 
-Desenvolvo soluções estruturadas e eficientes, lidando com persistência de dados, arquitetura de aplicações e comunicação entre sistemas. Meu foco está em escrever código limpo, manutenível e escalável, buscando aplicações bem organizadas e funcionais.  
-
-Trabalho bem em equipe, me comunico com clareza e tenho uma abordagem prática e orientada à solução de problemas.
+---
 
 ## 🚀 Technologies I've Worked With  
 
