@@ -6,12 +6,18 @@
 ## 🧑🏻‍💻 About Me | Sobre mim  
 
 **EN:**  
-I'm Moisés Figueiredo, 17 years old, a Systems Development student at ETEC. I'm passionate about technology and focused on becoming a full-stack developer, constantly improving my skills through practical projects.
+I'm a Systems Development student focused on Back-End web development. I work with JavaScript, Node.js, and PostgreSQL, building REST APIs, designing database structures, and implementing business rules on the server side.  
+
+I develop structured and efficient solutions, handling data persistence, application architecture, and communication between systems. My focus is on writing clean, maintainable, and scalable code, always aiming for well-organized and functional applications.  
+
+I work well in teams, communicate clearly, and approach problems with a practical and solution-oriented mindset.
 
 **PT-BR:**  
-Sou Moisés Figueiredo, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas pela ETEC. Sou apaixonado por tecnologia e estou focado em me tornar um desenvolvedor full stack, evoluindo constantemente através de projetos práticos.
+Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web Back-End. Trabalho com JavaScript, Node.js e PostgreSQL, desenvolvendo APIs REST, modelando bancos de dados e implementando regras de negócio no lado do servidor.  
 
----
+Desenvolvo soluções estruturadas e eficientes, lidando com persistência de dados, arquitetura de aplicações e comunicação entre sistemas. Meu foco está em escrever código limpo, manutenível e escalável, buscando aplicações bem organizadas e funcionais.  
+
+Trabalho bem em equipe, me comunico com clareza e tenho uma abordagem prática e orientada à solução de problemas.
 
 ## 🚀 Technologies I've Worked With  
 
