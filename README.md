@@ -18,19 +18,9 @@ Sou Moisés Figueiredo, tenho 17 anos e sou estudante de Desenvolvimento de Sist
 **Currently focusing on Backend development**
 
 [![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,js,react,html,css,git,postman)](https://skillicons.dev)
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devmoisesz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
+
 
 ## 🔥 GitHub Streak  
 
