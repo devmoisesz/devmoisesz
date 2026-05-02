@@ -1,43 +1,94 @@
-# Moisés Figueiredo 💻🇧🇷
+# Moisés Figueiredo 💻🇧🇷  
 🚀 **Systems Development Technical Student**
 
-## 🧑🏻‍💻 About me
+---
 
-My name is Moisés Figueiredo, I'm 17 years old, I'm a Systems Development student at ETEC and I'm passionate about technology and programming. I'm increasingly focused on improving my web development skills.
+## 🧑🏻‍💻 About Me | Sobre mim  
+
+**EN:**  
+I'm Moisés Figueiredo, 17 years old, a Systems Development student at ETEC. I'm passionate about technology and focused on becoming a full-stack developer, constantly improving my skills through practical projects.
+
+**PT-BR:**  
+Sou Moisés Figueiredo, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas pela ETEC. Sou apaixonado por tecnologia e estou focado em me tornar um desenvolvedor full stack, evoluindo constantemente através de projetos práticos.
 
 ---
 
-## 🛠️ Languages & Frameworks
+## 🚀 Technologies I've Worked With  
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+**Currently focusing on Backend development**
+
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,js,react,html,css,git,postman)](https://skillicons.dev)
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devmoisesz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-## 🗄️ Databases
+---
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+## 🔥 GitHub Streak  
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devmoisesz&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-| Project | Description |
-|---------|-------------|
-| [crud-products](https://github.com/devmoisesz/products-api) | CRUD Full Stack product application - with POST, GET, PUT, and DELETE functionalities - using JavaScript React, Vite, Node.js, Express, and PostgreSQL technologies.|
-| [cadastro-usuarios](https://github.com/devmoisesz/cadastro-usuarios) | User registration system built with Node.js and Express. |
+### 🛒 CRUD Products  
+🔗 https://github.com/devmoisesz/products-api  
+
+Full Stack CRUD application with:  
+- React + Vite (Frontend)  
+- Node.js + Express (Backend)  
+- PostgreSQL (Database)  
+
+✔ Features: Create, Read, Update, Delete products  
 
 ---
 
-## 🌐 Where to find me
+### 👤 User Registration System  
+🔗 https://github.com/devmoisesz/cadastro-usuarios  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-figueiredo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_moisesz16/)
+API for user registration using:  
+- Node.js  
+- Express  
 
-## 📫 Contact
+✔ Focus on REST API structure and data handling  
 
-- ✉️ Email: moisesfigueiredo2508@gmail.com
+---
+
+## 🎯 Current Focus  
+
+- Improving **Full Stack Development** skills  
+- Building real-world projects  
+- Learning best practices (Clean Code, APIs, architecture)  
+
+---
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-figueiredo/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_moisesz16/)  
+
+---
+
+## 📫 Contact  
+✉️ moisesfigueiredo2508@gmail.com  
+
+---
+
+## ⚡ Diferencial  
+
+- 💡 Aprendo rápido, buscando apoio e também encontrando soluções de forma autônoma  
+- 🧠 Mentalidade de crescimento constante  
+- 🛠️ Foco em projetos práticos e resolução de problemas reais  
