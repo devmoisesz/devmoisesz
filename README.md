@@ -21,7 +21,6 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 
 ---
 
-
 ## 🔥 GitHub Streak  
 
 <div align="center">
@@ -32,7 +31,32 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projects  
+
+### 🍕 API Pizzaria  
+🔗 https://github.com/devmoisesz/apirest-pizzaria  
+
+🚧 **Project in progress**  
+
+REST API for pizzeria management, focused on scalability and good architecture practices.
+
+**Tech Stack:**  
+- Node.js  
+- Express  
+- PostgreSQL  
+
+**Main Features:**  
+- Product and category management  
+- Structured routes following REST principles  
+- Data persistence with relational database  
+- Input validation and error handling  
+
+**In Progress / Next Steps:**  
+- Authentication and authorization (JWT)  
+- Order management system  
+- Role-based access control (admin/user)  
+- Better project structure (services, controllers, middlewares)  
+---
 
 ### 🛒 CRUD Products  
 🔗 https://github.com/devmoisesz/products-api  
@@ -59,8 +83,7 @@ API for user registration using:
 
 ## 🎯 Current Focus  
 
-- Improving **Full Stack Development** skills  
-- Building real-world projects  
+- Improving **Back End Development** skills  
 - Learning best practices (Clean Code, APIs, architecture)  
 
 ---
@@ -74,11 +97,3 @@ API for user registration using:
 
 ## 📫 Contact  
 ✉️ moisesfigueiredo2508@gmail.com  
-
----
-
-## ⚡ Diferencial  
-
-- 💡 Aprendo rápido, buscando apoio e também encontrando soluções de forma autônoma  
-- 🧠 Mentalidade de crescimento constante  
-- 🛠️ Foco em projetos práticos e resolução de problemas reais  
