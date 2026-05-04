@@ -49,14 +49,11 @@ REST API for pizzeria management, focused on scalability and good architecture p
 - Product and category management  
 - Structured routes following REST principles  
 - Data persistence with relational database  
-- Input validation and error handling  
 
-**In Progress / Next Steps:**  
-- Authentication and authorization (JWT)  
-- Order management system  
-- Role-based access control (admin/user)  
-- Better project structure (services, controllers, middlewares)  
----
+**In Progress:**  
+- Authentication with JWT  
+- Order management improvements  
+- Input validation and error handling  
 
 ### 🛒 CRUD Products  
 🔗 https://github.com/devmoisesz/products-api  
