@@ -53,7 +53,6 @@ REST API for pizzeria management, focused on scalability and good architecture p
 **In Progress:**  
 - Authentication with JWT  
 - Order management improvements  
-- Input validation and error handling  
 
 ### 🛒 CRUD Products  
 🔗 https://github.com/devmoisesz/products-api  
