@@ -41,9 +41,8 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 REST API for pizzeria management, focused on scalability and good architecture practices.
 
 **Tech Stack:**  
-- Node.js  
-- Express  
-- PostgreSQL  
+
+![](https://skillicons.dev/icons?i=js,nodejs,express,postgres,vscode,git,postman)
 
 **Main Features:**  
 - Product and category management  
@@ -51,8 +50,7 @@ REST API for pizzeria management, focused on scalability and good architecture p
 - Data persistence with relational database  
 
 **In Progress:**  
-- Authentication with JWT  
-- Order management improvements  
+- Authentication with JWT   
 
 ### 🛒 CRUD Products  
 🔗 https://github.com/devmoisesz/products-api  
