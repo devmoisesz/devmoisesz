@@ -50,7 +50,9 @@ REST API for pizzeria management, focused on scalability and good architecture p
 - Data persistence with relational database  
 
 **In Progress:**  
-- Authentication with JWT   
+- Authentication with JWT
+
+---
 
 ### 🛒 CRUD Products  
 🔗 https://github.com/devmoisesz/products-api  
