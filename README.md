@@ -34,53 +34,22 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 ## 🚀 Projects  
 
 ### 🍕 API Pizzaria  
-🔗 https://github.com/devmoisesz/apirest-pizzaria  
 
-🚧 **Project in progress**  
-
-REST API for pizzeria management, focused on scalability and good architecture practices.
+REST API for pizzeria management, developed to practice backend architecture, authentication and database integration.
 
 **Tech Stack:**  
 
-![](https://skillicons.dev/icons?i=js,nodejs,express,postgres,vscode,git,postman)
+![](https://skillicons.dev/icons?i=nodejs,express,postgres,vscode,git,postman)
 
 **Main Features:**  
+- Customer and admin authentication with JWT  
+- Role-based access control  
 - Product and category management  
-- Structured routes following REST principles  
-- Data persistence with relational database  
+- Order creation, history and cancellation  
+- Data validation and error handling  
+- PostgreSQL integration  
 
-**In Progress:**  
-- Authentication with JWT
-
----
-
-### 🛒 CRUD Products  
-🔗 https://github.com/devmoisesz/products-api  
-
-Full Stack CRUD application with:  
-- React + Vite (Frontend)  
-- Node.js + Express (Backend)  
-- PostgreSQL (Database)  
-
-✔ Features: Create, Read, Update, Delete products  
-
----
-
-### 👤 User Registration System  
-🔗 https://github.com/devmoisesz/cadastro-usuarios  
-
-API for user registration using:  
-- Node.js  
-- Express  
-
-✔ Focus on REST API structure and data handling  
-
----
-
-## 🎯 Current Focus  
-
-- Improving **Back End Development** skills  
-- Learning best practices (Clean Code, APIs, architecture)  
+ **Repository link:** 🔗 https://github.com/devmoisesz/apirest-pizzaria  
 
 ---
 
