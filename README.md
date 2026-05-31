@@ -21,7 +21,7 @@ Back-End Development Focus
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most commonly used languages
 
 <div align="center">
 
