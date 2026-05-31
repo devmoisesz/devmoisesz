@@ -6,10 +6,10 @@
 ## 🧑🏻‍💻 About Me | Sobre mim  
 
 **EN:**  
-Focused on Back-End development, with emphasis on designing and building APIs, as well as structuring and modeling databases. I develop organized and well-structured solutions, with attention to data persistence and system communication in real-world projects.  
+Focused on Back-End development, with emphasis on designing and building APIs, as well as structuring and modeling databases. I develop organized and well-structured solutions, with attention to da[...]
 
 **PT-BR:**  
-Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, além da estruturação e modelagem de bancos de dados. Desenvolvo soluções organizadas e bem estruturadas, com atenção à persistência de dados e à comunicação entre sistemas em projetos reais.
+Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, além da estruturação e modelagem de bancos de dados. Desenvolvo soluções organizadas e bem estruturadas, com atenç[...]
 
 ---
 
@@ -18,6 +18,12 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 Back-End Development Focus
 
 [![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,react,postgres,git,postman)](https://skillicons.dev)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
