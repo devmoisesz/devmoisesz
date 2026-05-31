@@ -23,7 +23,11 @@ Back-End Development Focus
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
