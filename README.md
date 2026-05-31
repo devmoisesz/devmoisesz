@@ -21,12 +21,6 @@ Back-End Development Focus
 
 ---
 
-## 📊 Most commonly used languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmoisesz&langs_count=6&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ## 🔥 GitHub Streak  
 
 <div align="center">
