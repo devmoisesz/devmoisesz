@@ -6,10 +6,10 @@
 ## 🧑🏻‍💻 About Me | Sobre mim  
 
 **EN:**  
-Focused on Back-End development, with emphasis on designing and building APIs, as well as structuring and modeling databases. I develop organized and well-structured solutions, with attention to da[...]
+Back-End focused developer, specializing in building REST APIs, database modeling, and authentication systems. I develop organized, scalable, and maintainable solutions with a strong emphasis on software architecture and engineering best practices.
 
 **PT-BR:**  
-Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, além da estruturação e modelagem de bancos de dados. Desenvolvo soluções organizadas e bem estruturadas, com atenç[...]
+Desenvolvedor com foco em Back-End, especializado na construção de APIs REST, modelagem de bancos de dados e implementação de sistemas de autenticação. Desenvolvo soluções organizadas, escaláveis e de fácil manutenção, com atenção à arquitetura e às boas práticas de engenharia de software.
 
 ---
 
