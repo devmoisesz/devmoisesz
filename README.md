@@ -17,7 +17,7 @@ Focado em desenvolvimento Back-End, com ênfase no desenvolvimento de APIs, alé
 
 Back-End Development Focus
 
-[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,react,postgres,git,postman)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,postgres,git,postman)](https://skillicons.dev)
 
 ---
 
