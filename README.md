@@ -17,7 +17,7 @@ Desenvolvedor com foco em Back-End, especializado na construção de APIs REST, 
 
 Back-End Development Focus
 
-[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,fastifiypostgres,mongodb,git,postman)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,fastify,postgres,mongodb,git,postman)](https://skillicons.dev)
 
 ---
 
