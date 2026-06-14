@@ -39,7 +39,7 @@ Full-stack application for shortening and managing URLs, developed to practice a
 
 **Tech Stack:**
 
-![](https://skillicons.dev/icons?i=nodejs,ts,express,fastify,mongodb,react,vite,git,postman)
+![](https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,react,vite,git,postman,swagger,docker)
 
 **Main Features:**
 - User authentication with JWT
