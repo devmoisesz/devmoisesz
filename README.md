@@ -17,7 +17,7 @@ Desenvolvedor com foco em Back-End, especializado na construção de APIs REST, 
 
 Back-End Development Focus
 
-[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,postgres,mongodb,git,postman)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,ts,js,express,fastifiypostgres,mongodb,git,postman)](https://skillicons.dev)
 
 ---
 
@@ -39,7 +39,7 @@ Full-stack application for shortening and managing URLs, developed to practice a
 
 **Tech Stack:**
 
-![](https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,react,vite,git,postman)
+![](https://skillicons.dev/icons?i=nodejs,ts,express,fastify,mongodb,react,vite,git,postman)
 
 **Main Features:**
 - User authentication with JWT
