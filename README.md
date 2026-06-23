@@ -8,6 +8,9 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 * 💼 Experience with **Node.js · TypeScript · Express · NestJS · Fastify**
 * 📍 **Santa Ernestina, São Paulo — Brazil 🇧🇷**
 * 📫 **[moisesfigueiredo2508@gmail.com](mailto:moisesfigueiredo2508@gmail.com)**
+* 💼 **LinkedIn:** [moises-figueiredo](https://www.linkedin.com/in/moises-figueiredo/)
+* 📷 **Instagram:** [_moisesz16](https://www.instagram.com/_moisesz16/)
+
 
 
 ---
@@ -71,10 +74,3 @@ Full-stack application for shortening and managing URLs, developed to practice a
 - Responsive frontend built with React
 
 **Repository link:** 🔗 https://github.com/devmoisesz/link-shortener
-
----
-
-## 🌐 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-figueiredo/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_moisesz16/)  
