@@ -1,8 +1,3 @@
-# Moisés Figueiredo 💻🇧🇷  
-🚀 **Systems Development Technical Student**
-
----
-
 ## 👨‍💻 About Me
 
 Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building scalable applications and software architecture.
