@@ -2,7 +2,7 @@
 
 Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building scalable applications and software architecture.
 
-* 🎓 Technical Student in **Systems Development**
+* 🎓 Systems Development Technician
 * 🛠️ Focused on **Back-End Development**
 * 🏗️ Passionate about Software Architecture, clean code, and scalable applications.
 * 💼 Experience with **Node.js · TypeScript · Express · NestJS · Fastify**
