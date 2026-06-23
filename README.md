@@ -4,12 +4,12 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 
 * 🎓 Systems Development Technician
 * 🛠️ Focused on **Back-End Development**
-* 🏗️ Passionate about Software Architecture, clean code, and scalable applications.
+* 🏗️ Software architecture, clean code, and scalable applications.
 * 💼 Experience with **Node.js · TypeScript · Express · NestJS · Fastify**
-* 📍 **Santa Ernestina, São Paulo — Brazil 🇧🇷**
 * 📫 **[moisesfigueiredo2508@gmail.com](mailto:moisesfigueiredo2508@gmail.com)**
 * 💼 **LinkedIn:** [moises-figueiredo](https://www.linkedin.com/in/moises-figueiredo/)
 * 📷 **Instagram:** [_moisesz16](https://www.instagram.com/_moisesz16/)
+* 📍 **Santa Ernestina, São Paulo — Brazil 🇧🇷**
 
 
 
