@@ -15,10 +15,10 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🛠️Technologies and Tools
 ## Back-End Development Focus
 
-### 🛠️ Languages ​​& Frameworks
+### ⚙️ Languages ​​& Frameworks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### ⚙️ Development Tools
+### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
