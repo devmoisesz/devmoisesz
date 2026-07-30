@@ -8,7 +8,6 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 * 💼 Experience with **Node.js · TypeScript · Express · NestJS · Fastify**
 * 📫 **[moisesfigueiredo2508@gmail.com](mailto:moisesfigueiredo2508@gmail.com)**
 * 💼 **LinkedIn:** [moises-figueiredo](https://www.linkedin.com/in/moises-figueiredo/)
-* 📷 **Instagram:** [_moisesz16](https://www.instagram.com/_moisesz16/)
 * 📍 **Santa Ernestina, São Paulo — Brazil 🇧🇷**
 
 
