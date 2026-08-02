@@ -48,6 +48,35 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 
 ## 🚀 Projects
 
+### 🔗 Vitrine Web
+
+A comprehensive digital catalog marketplace platform for fashion retail, designed to simplify product showcasing, inventory management, and the automated generation of orders sent directly to WhatsApp, with no transaction fees from payment APIs.
+
+**Tech Stack:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Main Features:**
+- User authentication and access control
+- Interactive digital catalog with category filtering and search
+- Shopping cart with product variant, size, and quantity selection
+- Automated order payload generation sent directly to WhatsApp
+- Admin dashboard for product, image (Cloudinary), and stock management
+- Relational database management with PostgreSQL and Prisma ORM
+- Type-safe schema validation using Zod
+- Interactive API documentation built with Swagger
+- Responsive frontend built with Next.js
+
+---
+
 ### 🔗 Link Shortener
 
 Full-stack application for shortening and managing URLs, developed to practice authentication, API design, pagination and integration with MongoDB.
