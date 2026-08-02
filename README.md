@@ -39,6 +39,7 @@ Hello! I'm **Moisés Figueiredo**, a **Back-End Developer** focused on building 
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -75,6 +76,8 @@ A comprehensive digital catalog marketplace platform for fashion retail, designe
 - Interactive API documentation built with Swagger
 - Responsive frontend built with Next.js
 
+**Website link:** 🔗 https://vitrineweb-app.vercel.app/
+ 
 **Backend Repository link:** 🔗 https://github.com/devmoisesz/vitrine-web-api
 
 **Frontend Repository link:** 🔗 https://github.com/devmoisesz/vitrine-web
