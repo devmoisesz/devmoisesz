@@ -75,9 +75,9 @@ A comprehensive digital catalog marketplace platform for fashion retail, designe
 - Interactive API documentation built with Swagger
 - Responsive frontend built with Next.js
 
-**Repository Backend link:** 🔗 https://github.com/devmoisesz/vitrine-web-api
+**Backend Repository link:** 🔗 https://github.com/devmoisesz/vitrine-web-api
 
-**Repository Frontend link:** 🔗 https://github.com/devmoisesz/vitrine-web
+**Frontend Repository link:** 🔗 https://github.com/devmoisesz/vitrine-web
 
 ---
 
