@@ -3,8 +3,8 @@
 Olá! Sou **Moisés Figueiredo**, **Desenvolvedor Back-End** focado na construção de aplicações escaláveis e arquitetura de software.
 
 * 🎓 Técnico em Desenvolvimento de Sistemas
+* 💼 Experiência com **Node.js · TypeScript · NestJS ·  Express  · SQL**
 * 🏗️ Arquitetura de software, código limpo e aplicações escaláveis.
-* 💼 Experiência com **Node.js · TypeScript · Express · NestJS · Fastify**
 * 📫 **[moisesfigueiredo2508@gmail.com](mailto:moisesfigueiredo2508@gmail.com)**
 * 💼 **LinkedIn:** [moises-figueiredo](https://www.linkedin.com/in/moises-figueiredo/)
 * 📍 **Santa Ernestina, São Paulo — Brasil 🇧🇷**
