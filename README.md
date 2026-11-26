@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Moisés Figueiredo**, **Desenvolvedor Back-End** focado na construção de aplicações escaláveis e arquitetura de software.
+Olá! Sou **Moisés Figueiredo**
 
 * 🎓 Técnico em Desenvolvimento de Sistemas
 * 💼 Experiência com **Node.js · TypeScript · NestJS ·  Express  · SQL**
